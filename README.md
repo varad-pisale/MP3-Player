@@ -7,4 +7,5 @@
 3. Open the .exe and Enjoy your songs.
 
 -> Note:- Save the name of files,folder in English only don't use any another language.
+-> Note:- Download and setup Media Foundation in order to play mp3 files.
 
